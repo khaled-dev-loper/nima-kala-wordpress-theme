@@ -1,2 +1,2 @@
-# nima-kala-wordpress-theme
-Nima Kala Theme 
+# Nima Kala Theme For Wordpress
+&copy; All files have copyright
