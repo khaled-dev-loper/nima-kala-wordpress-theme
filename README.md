@@ -3,6 +3,8 @@
 
 
 #### Change Log - Theme :
+ * Version 1.13
+   *  fix bugs
  * Version 1.12
    *  add cart icon
    *  fix bugs
