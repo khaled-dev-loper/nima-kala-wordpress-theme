@@ -3,6 +3,8 @@
 
 
 #### Change Log - Theme :
+ * Version 1.21
+   * fix bugs
  * Version 1.20
    * add custom cart page
    * fix bugs
