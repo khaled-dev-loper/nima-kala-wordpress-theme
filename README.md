@@ -3,6 +3,9 @@
 
 
 #### Change Log - Theme :
+ * Version 1.12
+   *  add cart icon
+   *  fix bugs
  * Version 1.10
    *  add 404 page
    *  add screenshot
