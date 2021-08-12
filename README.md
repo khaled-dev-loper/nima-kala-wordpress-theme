@@ -3,6 +3,8 @@
 
 
 #### Change Log - Theme :
+ * Version 1.16
+   * add cart-empty page
  * Version 1.15 
    *  check for update
    *  fix bugs
