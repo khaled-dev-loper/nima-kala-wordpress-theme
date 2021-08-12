@@ -3,6 +3,9 @@
 
 
 #### Change Log - Theme :
+ * Version 1.15 
+   *  check for update
+   *  fix bugs
  * Version 1.13
    *  fix bugs
  * Version 1.12
