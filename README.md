@@ -3,6 +3,10 @@
 
 
 #### Change Log - Theme :
+ * Version 1.30
+   * add new plugin support (K-Dev Nima Kala Baby SEO)
+   * update SEO
+   * fix bugs
  * Version 1.21
    * fix bugs
  * Version 1.20
