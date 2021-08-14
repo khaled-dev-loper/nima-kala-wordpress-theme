@@ -3,6 +3,8 @@
 
 
 #### Change Log - Theme :
+ * Version 1.50 [Golden]:
+   * add login page
  * Version 1.40
    * fix bugs
  * Version 1.30
