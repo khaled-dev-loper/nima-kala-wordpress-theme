@@ -5,6 +5,8 @@
 #### Change Log - Theme :
  * Version 1.50 [Golden]:
    * add login page
+   * add signup page
+   * add lost password page
  * Version 1.40
    * fix bugs
  * Version 1.30
