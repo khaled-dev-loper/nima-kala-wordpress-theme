@@ -4,7 +4,7 @@
 
 #### Change Log - Theme :
  * Version 1.70 [Golden]:
-   * add theme support Elementor
+   * add Elementor theme support 
    * fix bugs
  * Version 1.60 [Golden]:
    * add Home page
