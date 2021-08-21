@@ -3,6 +3,14 @@
 
 
 #### Change Log - Theme :
+ * Version 2.00
+   * remake cart page
+   * fix responsive bugs
+ * Version 1.90
+   * change quantity style
+   * fix bugs
+ * Version 1.80
+   * fix bugs
  * Version 1.70 [Golden]:
    * add Elementor theme support 
    * fix bugs
