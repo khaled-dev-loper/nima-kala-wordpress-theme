@@ -3,6 +3,10 @@
 
 
 #### Change Log - Theme :
+ * Version 2.30 [Golden]:
+   * complate home page 
+ * Version 2.20 [Golden]:
+   *  fix bugs
  * Version 2.00 [Golden]:
    * remake cart page
    * fix responsive bugs
